@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d-h-r-u-v-1-1
+- 👋 Hi, I’m @dhruv-pithadia
 - 👀 I’m interested in Machine Learning and Contributing in this field
 - 🌱 I’m currently learning the way of life
 - 💞️ I’m looking to collaborate on ML projects
