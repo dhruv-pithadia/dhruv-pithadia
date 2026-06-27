@@ -1,12 +1,63 @@
-- 👋 Hi, I’m @dhruv-pithadia
-- 👀 I’m interested in Machine Learning and Contributing in this field
-- 🌱 I’m currently learning the way of life
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 Reach out to me -> @pithadia.dhruv@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Code till you quit
+# 👋 Hey, I'm Dhruv.
 
-<!---
-d-h-r-u-v-1-1/d-h-r-u-v-1-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Building software that quietly replaces repetitive work.
+
+I enjoy designing systems more than writing features.
+
+Most of what I build lives at the intersection of AI, automation, backend architecture, and developer tooling. I'm interested in creating software that scales with as little human intervention as possible.
+
+### Currently exploring
+
+* AI Agents
+* Workflow Automation
+* System Design
+* Backend Engineering
+* LLM Infrastructure
+* Developer Experience
+
+---
+
+### What you'll find here
+
+Instead of tutorial projects, I prefer building things people can actually use.
+
+Expect repositories around:
+
+* autonomous agents
+* AI-powered tools
+* backend systems
+* APIs
+* automation frameworks
+* experimental side projects
+
+---
+
+### Philosophy
+
+> Build once.
+> Automate forever.
+
+Technology should remove friction—not create more of it.
+
+---
+
+### Current Focus
+
+```
+Design → Build → Automate → Iterate
+```
+
+Always learning.
+Always shipping.
+
+---
+
+### Outside of GitHub
+
+When I'm not coding, I'm usually reading about distributed systems, experimenting with new AI models, or turning random ideas into prototypes.
+
+If something can be automated, I'll probably try building it.
+
+---
+
+*"Stay curious."*
